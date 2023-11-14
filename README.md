@@ -6,3 +6,5 @@ Datasets starting with CO coresspond to Analysis_1 done for Colorado
 Datasets starting with CONUS coresspond to Analysis_2 done for Contiguous USA
 
 Please change the paths given in the scripts as necessary
+
+The fast_example script is adapted from the github profile of Daniel Turek
